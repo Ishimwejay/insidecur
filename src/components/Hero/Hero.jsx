@@ -13,8 +13,7 @@ const Hero = () => {
           field of education
         </p>
         <button className="btn">
-          Exprole more by checking whether is working{" "}
-          <img src={arrow_right} alt="" />
+          Exprole more <img src={arrow_right} alt="" />
         </button>
       </div>
     </div>
